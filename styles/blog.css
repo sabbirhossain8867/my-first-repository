@@ -1,0 +1,27 @@
+.header{
+    height: 200px;
+    background-image: url('../image/cat.jpg');
+    background-size: 20%;
+    background-color: rgb(250, 250, 5);
+    /* background-blend-mode: red; */
+}
+h4{
+    color: magenta;
+}
+h2{
+    color: chocolate;
+    text-decoration: none;
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 3);
+}
+.page-title{
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.blog{
+    background-color: rgb(162, 231, 12);
+box-shadow:10px 5px;
+}
